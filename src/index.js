@@ -1,3 +1,3 @@
-import('./render').then(exports => {
-    exports.render()
-})
+import * as _  from 'underscore'
+
+console.log(_)
