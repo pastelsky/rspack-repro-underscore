@@ -1,4 +1,7 @@
-# rspack-repro
+# rspack-repro-underscore
+1. Run `yarn install`
+2. Run `yarn build`
+3. Observe the built sizes
 
 - [Rspack website](https://www.rspack.dev/)
 - [Rspack repo](https://github.com/web-infra-dev/rspack)
